@@ -1,5 +1,6 @@
 ## Hi , I'm iLyes👋
 - 👨‍💻 Currently studying at the university of Lille. (L3)
+- 📸 Sometimes a photograher.
 - 🔭 Looking for an internship. 
 - 💭 Currently learning about the web, the cloud, the security of it all.
 - 🏗️ My projects were done either to learn solo or as a part of academic group projects , they were either finnished on my local device or university gitlab or ..., to better showcase the good ones i relocated them here in github.
